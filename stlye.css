@@ -25,7 +25,6 @@ body {
     margin-top: auto;
     width: min(45em, 90%);
     min-height: 540px;
-    margin: 1em;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: "image text";
