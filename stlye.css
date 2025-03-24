@@ -134,9 +134,9 @@ footer a:hover {
 }
 
 @media only screen and (max-width: 740px) {
-    body {
+    /* body {
         height: auto;
-    }
+    } */
 
     .container {
         grid-template-columns: 1fr;
